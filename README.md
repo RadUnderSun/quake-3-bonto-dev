@@ -2,6 +2,8 @@
 
 Create a container on [bonto.dev](bonto.dev), create an `install.sh` file, run `chmod +x install.sh`, and execute `./install.sh`; the server will then be running. You can modify settings and manage it - see below.
 
+based on [ghcr.io/doszoner/q3ded:20260920-29517a4](ghcr.io/doszoner/q3ded:20260920-29517a4)
+
 -------
 
 * Check the status.
